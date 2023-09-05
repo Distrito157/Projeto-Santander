@@ -1,12 +1,12 @@
 # Projeto Santander
-- Projeto feito realizado para fins de estudo.
+- Projeto realizado para fins de estudo.
 - Créditos ao canal: [Rodolfo Mori](https://www.youtube.com/@RodolfoMori) 
 - Vídeo aula: [Curso de CSS | Aprenda CSS do ZERO](https://www.youtube.com/watch?v=UCPrSHHe9Ao)
 ## Tecnologias usadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px"/>
 ## Clonar repo
 ```markdown
-Link
+git clone https://github.com/Distrito157/Projeto-Santander
 ```
 
 ## Teoria
